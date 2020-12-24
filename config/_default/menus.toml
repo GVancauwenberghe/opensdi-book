@@ -4,6 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Documentation"
+  name = "About"
   url = "docs/"
   weight = 10
+
+[[main]]
+  name = "This"
+  url = "docs/"
+  weight = 20
+
+[[main]]
+  name = "Web"
+  url = "docs/"
+  weight = 30
+
+[[main]]
+  name = "Page"
+  url = "docs/"
+  weight = 40
