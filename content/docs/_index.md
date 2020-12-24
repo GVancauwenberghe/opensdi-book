@@ -1,6 +1,5 @@
 ---
-title: Docs
+title: Knowledge Base
 type: book  # Do not modify.
 ---
-
-Welcome to the _book_ template!
+This is the Open SDI Knowledge Base
