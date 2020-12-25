@@ -48,7 +48,7 @@ hero_media = "book.svg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
+  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Version:<!-- V --></span>'
 +++
 
 From [SPIDER](https://sdispider.eu).
